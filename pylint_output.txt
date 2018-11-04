@@ -1,0 +1,14 @@
+pylint output for test_create_dataframe.py
+
+rf:linting-and-testing-rlfranz rachelfranz$ pylint test_create_dataframe.py 
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+
+pylint output for hw3.py
+
+rf:linting-and-testing-rlfranz rachelfranz$ pylint hw3.py
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
